@@ -201,7 +201,6 @@ PKGS=(
 'keepassxc'
 'firefox'
 'qbittorrent'
-'spotify'
 'vlc'
 'blender'
 'libreoffice-fresh'

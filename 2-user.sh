@@ -45,6 +45,7 @@ PKGS=(
 'ocs-url' # install packages from websites
 'sddm-nordic-theme-git'
 'snapper-gui-git'
+'spotify'
 'ttf-droid'
 'ttf-hack'
 'ttf-meslo' # Nerdfont package
